@@ -88,7 +88,7 @@
             <label for="provinsi" class="block text-sm font-semibold text-gray-700">PROVINSI</label>
             <select id="provinsi"
               class="w-full mt-1 p-2 border rounded-md focus:ring-primary focus:border-primary">
-              <option value="">-- pilih provinsi --</option>
+              <option value="">-- Pilih Provinsi --</option>
             </select>
           </div>
 
@@ -96,7 +96,7 @@
             <label for="kota" class="block text-sm font-semibold text-gray-700">KOTA / KABUPATEN</label>
             <select id="kota"
               class="w-full mt-1 p-2 border rounded-md focus:ring-primary focus:border-primary">
-              <option value="">-- pilih kota --</option>
+              <option value="">-- Pilih Kota --</option>
             </select>
           </div>
 
@@ -104,7 +104,7 @@
             <label for="kecamatan" class="block text-sm font-semibold text-gray-700">KECAMATAN</label>
             <select id="distrik"
               class="w-full mt-1 p-2 border rounded-md focus:ring-primary focus:border-primary">
-              <option value="">-- pilih distrik --</option>
+              <option value="">-- Pilih Distrik --</option>
             </select>
           </div>
 
